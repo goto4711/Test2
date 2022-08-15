@@ -5,4 +5,3 @@ selenium==4.3.0
 urllib3==1.26.9
 voila==0.3.6
 ipywidgets==7.6.3
-random==3.10.6 
